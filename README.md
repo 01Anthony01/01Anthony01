@@ -1,5 +1,5 @@
 ## Ola, Eu sou o *Anthony👋🏻*
- Sou um programador front-end. Tenho uma grande paixão por tecnologia e estou constantemente estudando para melhorar minhas habilidades. Nos meus momentos livres, gosto de ir à academia para manter a saúde em dia e recarregar as energias. Estou sempre em busca de novos conhecimentos e desafios, tanto no campo profissional quanto no pessoal.
+ Sou um programador full stack. Tenho uma grande paixão por tecnologia e estou constantemente estudando para melhorar minhas habilidades. Nos meus momentos livres, gosto de ir à academia para manter a saúde em dia e recarregar as energias. Estou sempre em busca de novos conhecimentos e desafios, tanto no campo profissional quanto no pessoal.
 
 ### Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonymiranda871@gmail.com)
