@@ -1,4 +1,4 @@
-## Ola, Eu sou o *Anthony👋🏻*
+## Olá, Eu sou o *Anthony👋🏻*
  Sou um programador full stack. Tenho uma grande paixão por tecnologia e estou constantemente estudando para melhorar minhas habilidades. Nos meus momentos livres, gosto de ir à academia para manter a saúde em dia e recarregar as energias. Estou sempre em busca de novos conhecimentos e desafios, tanto no campo profissional quanto no pessoal.
 
 ### Contact
